@@ -5,4 +5,4 @@ Tugas UTS Mata Kuliah Aljabar Linier dan Matriks adalah implementasi Metode Nume
 
 ## Catatan
 
-Metode Numerik yang ada di repository ini yaitu __Metode Terbuka Iterasi Sederhana__ dan Metode Tertutup Biseksi__
+Metode Numerik yang ada di repository ini yaitu __Metode Terbuka Iterasi Sederhana__ dan __Metode Tertutup Biseksi__
